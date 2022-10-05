@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04e0998d0306d2842a3d26d20eb20fd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hp: {instanceID: 0}
+  - fullHp: {fileID: 2100000, guid: 4fa1a417505c7d248a1a40f35ae1b00d, type: 2}
+  - midHp: {fileID: 2100000, guid: b5972a0919ea7ef4bb003ccacc8a4f7e, type: 2}
+  - lowHp: {fileID: 2100000, guid: 4a11dfd562b32be4eb2441052c674d8a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
