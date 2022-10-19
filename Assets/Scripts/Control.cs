@@ -14,7 +14,6 @@ public class Control : MonoBehaviour
     public GameObject TailPrefab;
     public Cube_health cbHealth;
     public TextMeshPro hpText;
-    public Text text;
     private Food food;
     private int hp;
    
@@ -33,7 +32,6 @@ public class Control : MonoBehaviour
     void Update()
     {
         hpText.text = snakeLength.ToString();
-        text.text = hp.ToString();
         snakeLength = tailObjects.Count;
         transform.Translate(Vector3.forward * Speed * Time.deltaTime);
 
